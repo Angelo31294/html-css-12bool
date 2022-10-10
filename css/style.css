@@ -1,2 +1,9 @@
 @import url(12bool.css);
 @import url(12bool-responsive.css);
+
+/* ------------
+    MARGIN
+------------ */
+.margin-bottom-10{
+    margin-bottom: .625rem;
+}
